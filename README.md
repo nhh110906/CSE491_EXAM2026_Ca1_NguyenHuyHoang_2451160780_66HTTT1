@@ -1,6 +1,5 @@
-# mau1 — HTML/CSS thuần + React
+# HTML/CSS thuần + React
 
-Cấu trúc theo đề **2026.Minhhoa**:
 
 ```
 mau1/
