@@ -2,7 +2,7 @@
 
 
 ```
-mau1/
+EXAM2026_Ca1/
 ├── html/
 │   ├── index.html
 │   ├── css/style.css
